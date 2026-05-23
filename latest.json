@@ -1,4 +1,10 @@
 {
-  "version": "2.7",
-  "download_url": "https://github.com/meditag123/meditag-updates/releases/latest/download/MediTag.exe"
+  "version": "2.9",
+  "download_url": "https://github.com/meditag123/meditag-updates/releases/latest/download/Setup_MediTag_v2.9.exe",
+  "notes": [
+    "Νέο release notes system",
+    "Εμφάνιση αλλαγών πριν το update",
+    "What's new μετά την εγκατάσταση",
+    "Βελτιωμένα update popups"
+  ]
 }
