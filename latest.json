@@ -1,10 +1,10 @@
 {
-  "version": "3.3",
-  "download_url": "https://github.com/meditag123/meditag-updates/releases/latest/download/Setup_MediTag_v3.3.exe",
+  "version": "3.3.1",
+  "download_url": "https://github.com/meditag123/meditag-updates/releases/latest/download/Setup_MediTag_v3.3.1.exe",
   "notes": [
-    "Διόρθωση κλινικής στη συγκεντρωτική λίστα χωρίς τόνους στα κεφαλαία",
-    "Νέα γρήγορη εκτύπωση μόνο Labels δίπλα στον label printer",
-    "Νέα γρήγορη εκτύπωση μόνο Συγκεντρωτικής λίστας δίπλα στον list printer",
-    "Οι γρήγορες εκτυπώσεις δεν κάνουν εξαγωγή PDF στον φάκελο export"
+    "Μικρότερα κουμπιά γρήγορης εκτύπωσης δίπλα στους εκτυπωτές",
+    "Τα κουμπιά γράφουν μόνο Εκτύπωση",
+    "Διορθώθηκε το spacing ώστε να μην πέφτουν πάνω σε άλλα στοιχεία",
+    "Διατηρήθηκε το ενημερωμένο Help Center και το manual v3.3"
   ]
 }
