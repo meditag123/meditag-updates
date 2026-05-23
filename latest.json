@@ -1,11 +1,10 @@
 {
-  "version": "3.0.1",
-  "download_url": "https://github.com/meditag123/meditag-updates/releases/latest/download/Setup_MediTag_v3.0.1.exe",
+  "version": "3.1",
+  "download_url": "https://github.com/meditag123/meditag-updates/releases/latest/download/Setup_MediTag_v3.1.exe",
   "notes": [
-    "Νέο Help Center",
-    "Ελληνικό User Manual",
-    "Υποστήριξη online video οδηγιών",
-    "Βελτιωμένο installer workflow",
-    "Σταθερότερο update system"
+    "Επιλογή φακέλου export PDF",
+    "Αποθήκευση προτιμήσεων export",
+    "Βελτιωμένο workflow εξαγωγής",
+    "Σταθερότερο installer/update system"
   ]
 }
