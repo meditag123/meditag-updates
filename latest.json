@@ -1,10 +1,10 @@
 {
-  "version": "3.3.2",
-  "download_url": "https://github.com/meditag123/meditag-updates/releases/latest/download/Setup_MediTag_v3.3.2.exe",
+  "version": "3.3.4",
+  "download_url": "https://github.com/meditag123/meditag-updates/releases/latest/download/Setup_MediTag_v3.3.4.exe",
   "notes": [
-    "Διορθώθηκε η γρήγορη εκτύπωση από τα κουμπιά Εκτύπωση",
-    "Τα quick print κουμπιά χρησιμοποιούν πλέον την ίδια PDF μηχανή με την Εξαγωγή PDF",
-    "Προστέθηκε ασφαλής καθυστέρηση και έλεγχος προσωρινού PDF πριν την εκτύπωση",
-    "Καλύτερη συμβατότητα με Windows printers και fallback άνοιγμα PDF αν ο driver αποτύχει"
+    "Νέος μηχανισμός άμεσης εκτύπωσης PDF χωρίς Windows PDF association",
+    "Τα γρήγορα κουμπιά Εκτύπωση δουλεύουν με διαφορετικούς εκτυπωτές για Labels και Λίστα",
+    "Δεν απαιτείται Adobe, Edge ή SumatraPDF για την εκτύπωση PDF",
+    "Βελτιωμένο fallback: αν αποτύχει η άμεση εκτύπωση, ανοίγει το PDF για χειροκίνητη εκτύπωση"
   ]
 }
