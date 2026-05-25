@@ -1,10 +1,5 @@
 {
-  "version": "3.3.4",
-  "download_url": "https://github.com/meditag123/meditag-updates/releases/latest/download/Setup_MediTag_v3.3.4.exe",
-  "notes": [
-    "Νέος μηχανισμός άμεσης εκτύπωσης PDF χωρίς Windows PDF association",
-    "Τα γρήγορα κουμπιά Εκτύπωση δουλεύουν με διαφορετικούς εκτυπωτές για Labels και Λίστα",
-    "Δεν απαιτείται Adobe, Edge ή SumatraPDF για την εκτύπωση PDF",
-    "Βελτιωμένο fallback: αν αποτύχει η άμεση εκτύπωση, ανοίγει το PDF για χειροκίνητη εκτύπωση"
-  ]
+  "version": "0.1",
+  "download_url": "",
+  "notes": "Final v0.1: καθαρό UI baseline, νέο transparent 4K icon, ενοποιημένα README, ελαφρύτερος κώδικας."
 }
